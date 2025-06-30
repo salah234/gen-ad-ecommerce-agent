@@ -1,0 +1,1 @@
+# Initializing the general attributes for core agentic system

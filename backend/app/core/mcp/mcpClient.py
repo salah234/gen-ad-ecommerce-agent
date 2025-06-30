@@ -1,0 +1,1 @@
+# Sends structured messages to MCP

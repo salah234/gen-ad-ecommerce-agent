@@ -1,0 +1,1 @@
+# API that interacts with memory (can work for both supabase or vector DB (Maybe Chroma?))

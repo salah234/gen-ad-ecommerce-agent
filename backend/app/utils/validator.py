@@ -1,0 +1,1 @@
+# Image and Text Checks if complements one another

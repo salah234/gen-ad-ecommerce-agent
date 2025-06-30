@@ -1,0 +1,1 @@
+# Stripe event listeners (When purchase made or transactions)

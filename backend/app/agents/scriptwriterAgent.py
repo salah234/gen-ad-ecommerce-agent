@@ -1,0 +1,1 @@
+# Agent that does the scriptwriting in the ad so the voiceover agent uses it to describe ad (photos + text or text)

@@ -1,0 +1,1 @@
+# Creates the Generated Ad, view history

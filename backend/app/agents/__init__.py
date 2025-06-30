@@ -1,0 +1,1 @@
+# Initalization of the common attributes each agent needs (CrewAI multi-agent defs)

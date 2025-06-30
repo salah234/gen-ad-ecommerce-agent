@@ -1,0 +1,1 @@
+# Agent that generates the video of the ad with the generated or uploaded photos and text read by voiceover agent.

@@ -1,0 +1,1 @@
+# Setup for External APIs for the agents (EX: SVD, Video generator, etc.)
