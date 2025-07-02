@@ -1,0 +1,5 @@
+edge_tts
+supabase
+chromadb
+moviepy
+email-validator
